@@ -35,7 +35,7 @@
     "accept-language-parser": "^1.5.0",
     "autosuggest-highlight": "^3.3.4",
     "canvas": "^2.11.2",
-    "canvg": "^4.0.2",
+    "canvg": "^4.0.3",
     "date-fns": "^3.6.0",
     "image-size": "^1.1.1",
     "isomorphic-unfetch": "^4.0.2",
